@@ -1,6 +1,12 @@
 ---
 name: minions-oss-releases
-description: Release definitions, changelogs, and publish receipts
+id: OC-0140
+version: 1.0.0
+description: "Release definitions, changelogs, and publish receipts"
+category: cloud
+subcategory: oss
+tags: ["minion", "cloud", "oss"]
+comments:
 ---
 
 # minions-oss-releases — Agent Skills
