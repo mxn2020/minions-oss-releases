@@ -6,3 +6,4 @@ description: "Release definitions, changelogs, and publish receipts"
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
