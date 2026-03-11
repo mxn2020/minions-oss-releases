@@ -1,0 +1,1 @@
+# @minions-oss-releases/blog\n\nStandard compliance definition for @minions-oss-releases/blog\n\n![CI](https://github.com/mxn2020/@minions-oss-releases/blog/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)\n

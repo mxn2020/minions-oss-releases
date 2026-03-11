@@ -1,0 +1,8 @@
+name: "@minions-oss-releases/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-oss-releases-workspace
+description: "Release definitions, changelogs, and publish receipts"
+priority: high
+deploy_url: null
+tags: null

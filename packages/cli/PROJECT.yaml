@@ -1,0 +1,8 @@
+name: "@minions-oss-releases/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-oss-releases-workspace
+description: "CLI for minions-oss-releases — Release definitions, changelogs, and publish receipts"
+priority: high
+deploy_url: null
+tags: null
