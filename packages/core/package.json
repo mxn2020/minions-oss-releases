@@ -1,6 +1,6 @@
 {
   "name": "@minions-oss-releases/sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Release definitions, changelogs, and publish receipts",
   "type": "module",
   "main": "./dist/index.js",
